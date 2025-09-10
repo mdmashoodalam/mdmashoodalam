@@ -1,7 +1,17 @@
 # Java Full Stack Developer
 
 **Md Mashood Alam**
+I am a passionate Computer Science graduate, driven by a curiosity for technology and a love for building scalable software. My journey involves hands-on experience with full-stack development and a commitment to sharing knowledge and collaborating with the tech community.
 
+![mdmashoodalam's Stats](https://github-readme-stats.vercel.app/api?username=mdmashoodalam&theme=vue-dark&show_icons=true&hide_border=true graduate from TIEIT Bhopal (RGPV) and hold a Diploma from MANUU Polytechnic, Bangalore.
+
+👨‍💻 I build dynamic web applications with Java, Spring Boot, Hibernate, React.js, Node.js, Express.js, and more.
+
+📚 I have developed and deployed scalable projects, including food ordering apps, e-commerce platforms, and portfolio websites.
+
+🌐 I love collaborating with fellow developers and have completed multiple internships focused on frontend and full-stack web development.
+
+✍️ I'm dedicated to continuous learning, adapting to new technology trends, and sharing knowledge through my work and projects.
 ---
 
 ## 🛠️ Skills
