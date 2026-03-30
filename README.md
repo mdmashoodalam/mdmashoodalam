@@ -6,7 +6,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmashoodalam&show_icons=true&theme=tokyonight&cache_seconds=60)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdmashoodalam&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mdmashoodalam&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdmashoodalam&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🎓 Education
@@ -26,8 +31,8 @@
 - ⚡ Experience with **MERN Stack (MongoDB, Express, React, Node.js)**
 - 🔐 Strong understanding of authentication, API integration & backend architecture
 - 📦 Built real-world projects like **E-commerce platforms, Food Ordering Systems & Portfolio Websites**
-- 🤝 Open to collaboration & actively exploring **Open Source Contributions**
-- 📈 Always learning and adapting to new technologies
+- 🤝 Open to collaboration & exploring **Open Source Contributions**
+- 📈 Always learning new technologies
 
 ---
 
@@ -55,7 +60,7 @@
 
 🔹 **Food Ordering System**  
 ✔️ Real-time order management  
-✔️ User-friendly UI & backend integration  
+✔️ Clean UI & backend integration  
 
 🔹 **Portfolio Website**  
 ✔️ Modern UI with React  
@@ -65,17 +70,18 @@
 
 ## 📈 Current Focus
 
-- 🔥 Mastering **Spring Boot Microservices**
-- 🚀 Improving **DSA & System Design**
-- 🌍 Contributing to **Open Source Projects**
+- 🔥 Spring Boot Microservices
+- 🚀 DSA & System Design
+- 🌍 Open Source Contributions
 
 ---
 
-## 🤝 Connect With Me
+## 🔥 Profile Views & Followers
 
-- 💼 Open for **Internships & Full-Time Opportunities**
-- 📩 Reach out for collaboration or project discussions
+![Profile Views](https://komarev.com/ghpvc/?username=mdmashoodalam&color=blue)
+
+![Followers](https://img.shields.io/github/followers/mdmashoodalam?style=social)
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ If you like my work, give a star to my repositories!
