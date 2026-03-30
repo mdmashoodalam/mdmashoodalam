@@ -6,8 +6,7 @@
 
 ## 📊 GitHub Stats
 
-![mdmashoodalam's Stats](https://github-readme-stats.vercel.app/api?username=mdmashoodalam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmashoodalam&show_icons=true&theme=tokyonight&cache_seconds=60)
 ---
 
 ## 🎓 Education
